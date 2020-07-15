@@ -36,4 +36,4 @@ You can find and get touch with me on these accounts!
  [<img src="https://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s320/Twitter+logo+2012.png" alt="twitter logo" width="34">](https://twitter.com/__adhrsh__) | [<img src="https://image.flaticon.com/icons/svg/2111/2111628.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10233828/adarsh-balu) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkrRvLoiXwR9qipNQm_cF2ltOMmAP1JJwSbg&usqp=CAU" alt="gitlab logo" width="24">](https://gitlab.com/Adarshbalu) | [<img src="https://toppng.com/uploads/preview/reddit-icon-reddit-logo-transparent-115628752708pqmsy4kgm.png" alt="reddit logo" width="24">](https://www.reddit.com/user/adarshbalu) | [<img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" alt="inkedin logo" width="50">](https://www.linkedin.com/in/adarshbalu/) | 
 |---|---|---|---|---|
 
----
+
