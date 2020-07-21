@@ -1,6 +1,6 @@
 
 ##  <center> :soccer: Adarsh Balachandran 👨‍💻 </center>
-###  <center> :iphone: Flutter Dev  |  Web Dev :computer: </center> 
+###  <center> :iphone: Flutter Developer </center> 
 
 
 ### 🌐 Programming Languages 
