@@ -7,8 +7,8 @@
 <!--
 - Know/Using
 -->
-| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSB87SSp2lFKJvcXlgWMkohUIb1vIvpROEWxQ&usqp=CAU" alt="v logo" width="24">](https://dart.dev/)  | [<img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" alt="cpp logo" width="24">](https://isocpp.org/)  | 
-|---|---|
+| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSB87SSp2lFKJvcXlgWMkohUIb1vIvpROEWxQ&usqp=CAU" alt="v logo" width="24">](https://dart.dev/)  | [<img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" alt="cpp logo" width="24">](https://isocpp.org/)  | [<img src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg" alt="pyhton logo" width="48">](https://python.org/)  | 
+|---|---|---|
 
 <!--
 - Learning
